@@ -1,0 +1,3 @@
+# ideaSettingSYnc
+ideaSettingSYnc
+token 9b2bc3630e3f2fc2c5bd8ad3ccbecedca675047e
