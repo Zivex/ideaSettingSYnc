@@ -1,3 +1,3 @@
 # ideaSettingSYnc
 ideaSettingSYnc
-token a8c547772d7772e7bdd09c5103e04f82b743d10d
+token 9a48392e24694d0dbd55d14a850f0fec130aacc4
