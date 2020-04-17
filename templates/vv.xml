@@ -1,0 +1,9 @@
+<templateSet group="vv">
+  <template name="cmt" value="/**&#10; * @Description: &#10; *&#10; * @Author: zhangxu&#10; *&#10; * @Date $date$ $time$&#10; */" description="添加注视" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
