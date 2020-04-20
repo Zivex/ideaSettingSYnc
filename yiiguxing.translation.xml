@@ -1,0 +1,16 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="STREAM" />
+    </histories>
+  </component>
+  <component name="Settings">
+    <option name="autoSelectionMode" value="EXCLUSIVE" />
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
