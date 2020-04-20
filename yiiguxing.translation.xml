@@ -3,11 +3,17 @@
     <histories>
       <item value="STREAM" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
     <option name="googleTranslateSettings">
       <google-translate>
+        <option name="primaryLanguage" value="ENGLISH" />
         <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
