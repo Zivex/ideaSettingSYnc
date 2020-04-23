@@ -11,8 +11,8 @@
     <mask>*.fxml</mask>
     <mask>*.css</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
+    <mask>*.java</mask>
   </component>
 </application>
