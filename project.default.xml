@@ -1,0 +1,21 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Downloads/25/jdk-8u241-windows-x64-demos/jdk1.8.0_241/demo/javafx_samples/src/Modena" value="PREVIEW" />
+            <entry key="$USER_HOME$/OneDrive/project/jdk1.8.0_241/demo/javafx_samples/src/Ensemble8" value="PREVIEW" />
+            <entry key="$USER_HOME$/OneDrive/work/EADemo" value="PREVIEW" />
+            <entry key="C:/ideaProject/demo" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
