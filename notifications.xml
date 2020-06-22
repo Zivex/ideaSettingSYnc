@@ -1,5 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="TKK Update Failed" shouldLog="false" />
-  </component>
-</application>
