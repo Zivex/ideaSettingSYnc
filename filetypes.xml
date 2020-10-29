@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="db" type="Native" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping ext="dll" type="PLAIN_TEXT" />
       <mapping ext="tcl" type="PLAIN_TEXT" />
       <mapping ext="prm" type="PLAIN_TEXT" />
       <mapping ext="nsi" type="PLAIN_TEXT" />
@@ -11,7 +10,6 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dll" type="UNKNOWN" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
