@@ -5,6 +5,7 @@
       <mapping ext="tcl" type="PLAIN_TEXT" />
       <mapping ext="pcf" type="PLAIN_TEXT" />
       <mapping ext="k" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
